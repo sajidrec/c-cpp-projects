@@ -1,4 +1,4 @@
-This code was fully written by MD. Sajid Hossain.
+This code was written by MD. Sajid Hossain.
 
 Though some concept has been copied to create the pyramid structure.
 
