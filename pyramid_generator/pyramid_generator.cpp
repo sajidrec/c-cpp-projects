@@ -14,7 +14,7 @@ int main(void) {
     cin >> n;
 
     if (n <= 0) {
-      cout << endl << endl << "Thx for using this program." << endl << "This program was fully written by MD. Sajid Hossain but some concept has been copied from other resources." << endl << endl;
+      cout << endl << endl << "Thx for using this program." << endl << "This program was written by MD. Sajid Hossain but some concept has been copied from other resources." << endl << endl;
       break;
     }
 
